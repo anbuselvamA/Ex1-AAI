@@ -25,7 +25,7 @@ Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 ```
 pip install pybbn
 ```
-Creating BBN
+# Creating BBN
 ```
 import pandas as pd # for data manipulation
 import networkx as nx # for drawing graphs
