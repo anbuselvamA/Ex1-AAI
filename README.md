@@ -216,9 +216,9 @@ ax = plt.gca()
 ax.margins(0.10)
 plt.axis("off")
 plt.show()
-
+```
 ## Output:
-''' Show the output in the form screenshorts '''
+
 ![1](https://github.com/user-attachments/assets/08036dc6-8c3e-41de-bcea-3f97ec61cb16)
 
 ![2 (2)](https://github.com/user-attachments/assets/3b92bdd2-a4ec-4a71-8e60-506596089308)
